@@ -1,2 +1,1 @@
-# cryptocore-net
-A .NET CryptoCore API library
+# A .NET CryptoCore API library
